@@ -66,7 +66,7 @@ Network project using CISCO PACKET TRACER
 <br />
 
 </b> Analyzing Network Configuration and Connectivity <br/>
-<img src="https://i.imgur.com/MqPJutT.png " height="80%" width="80%" alt="hospitality Network"/>
+<img src="https://i.imgur.com/eS2pawF.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
