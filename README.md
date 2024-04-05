@@ -76,7 +76,11 @@ Network project using CISCO PACKET TRACER
 <br />
 <br />
 
-
+<p align="center">
+</b> Displaying VLAN Settings and Assignment <br/>
+<img src="https://i.imgur.com/0mBzyoO.png " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
 
 
 <!--
