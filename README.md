@@ -60,10 +60,17 @@ Network project using CISCO PACKET TRACER
 <img src="https://i.imgur.com/uerLHq7.png?1 " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
-
+ </b> Capturing Dynamic IP Address Assignments: <br/>
 <img src="https://i.imgur.com/OksBAHb.png?1 " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
+
+</b> Analyzing Network Configuration and Connectivity <br/>
+<img src="https://i.imgur.com/MqPJutT.png " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+
+
 
 <!--
  ```diff
