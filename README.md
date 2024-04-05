@@ -56,12 +56,14 @@ Network project using CISCO PACKET TRACER
 <h2> Lab walk-through:</h2>
 
 <p align="center">
-Network Topology: <br/>
+ </b>Network Topology: <br/>
 <img src="https://i.imgur.com/uerLHq7.png?1 " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
-
+<img src="https://i.imgur.com/OksBAHb.png?1 " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
 
 <!--
  ```diff
