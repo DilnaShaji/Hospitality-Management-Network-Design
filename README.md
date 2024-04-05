@@ -56,8 +56,8 @@ Network project using CISCO PACKET TRACER
 <h2> Lab walk-through:</h2>
 
 <p align="center">
-NIST framework: <br/>
-<img src="https://i.imgur.com/OcjPtrt.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/esTeZxm)"]>
+Network Topology: <br/>
+<img src="[https://i.imgur.com/OcjPtrt.png](https://imgur.com/a/RF2LC1P)" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/esTeZxm)"]>
 <br />
 <br />
 
