@@ -57,7 +57,7 @@ Network project using CISCO PACKET TRACER
 
 <p align="center">
 Network Topology: <br/>
-<img src=" https://imgur.com/uerLHq7 " height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/esTeZxm)"]>
+<img src=" https://i.imgur.com/uerLHq7.png?1 " height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/esTeZxm)"]>
 <br />
 <br />
 
