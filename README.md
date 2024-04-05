@@ -70,6 +70,12 @@ Network project using CISCO PACKET TRACER
 <img src="https://i.imgur.com/eS2pawF.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
+<p align="center">
+</b> Displaying Interface IP Addresses and Status <br/>
+<img src="https://i.imgur.com/x0Ai9t1.png " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+
 
 
 
