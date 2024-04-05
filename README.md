@@ -57,7 +57,7 @@ Network project using CISCO PACKET TRACER
 
 <p align="center">
 Network Topology: <br/>
-<img src=" https://i.imgur.com/uerLHq7.png?1 " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" [https://i.imgur.com/uerLHq7.png?1] " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
