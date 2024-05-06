@@ -50,8 +50,8 @@ Network project using CISCO PACKET TRACER
 
 <h2>Environments Used </h2>
 
-- <b> Cisco packet tracer </b> (21H2)
--  <b> MS Word </b> (21H2)
+- <b> Cisco packet tracer </b> 
+-  <b> MS Word </b> 
 
 <h2> Lab walk-through:</h2>
 
